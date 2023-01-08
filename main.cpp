@@ -15,7 +15,7 @@ int main()
     Calculator* calcPtr = &calc;
 
 
-    cout << "Welcome to my Calculator App\n\n"
+    cout << "Welcome again to my Calculator App\n\n"
     << "This app has 2  special keywords, result and mem.\n"
     << "result stores the result of the previous calculation.\n"
     << "mem allows you to store and access a number.\n"
